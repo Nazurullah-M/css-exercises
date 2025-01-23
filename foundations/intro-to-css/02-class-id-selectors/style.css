@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd {
+    background-color: rgb(245, 168, 168); 
+}
+
+#even {
+    color: blue;
+    font-size: 36px;
+}
+
+#third, #size {
+    font-size: 24px;
+}
+
+#size {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
