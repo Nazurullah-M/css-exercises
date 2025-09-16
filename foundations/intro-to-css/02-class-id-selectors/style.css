@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+
+.odd {
+    background-color: #f199a8;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#fnt {
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.second#fnt {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.third, .four {
+    font-size: 24px;
+}
+
+.four#fnt {
+    background-color: lightgreen;
+    font-weight: bold;
+}
